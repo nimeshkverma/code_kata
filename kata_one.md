@@ -15,4 +15,4 @@ Experiment with various models for representing money and prices that are flexib
 - If a shelf of 100 cans is priced using “buy two, get one free”, how do you value the stock?
 
 #### Solutions:
-
+- 1  
